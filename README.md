@@ -6,3 +6,9 @@ The app allows the restaurants to receive a direct online order from a customer.
 
 ## Objective
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
+
+## Solution Approach
+Boosted customer experience at Food Hub through strategic data analysis
+Uncovered key demand trends and customer behavior influencers
+Facilitated targeted promotions and operational enhancements
+Utilized univariate & bivariate analysis using Python
